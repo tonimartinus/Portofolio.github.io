@@ -215,7 +215,7 @@ const handleSubmit = async () => {
             </a>
 
             <a 
-              href="https://linkedin.com" 
+              href="https://www.linkedin.com/in/tonimartinus/" 
               target="_blank"
               class="flex items-center gap-3 p-3 bg-blue-100 dark:bg-blue-950/30 text-blue-800 dark:text-blue-400 border-2 border-black hover:translate-x-1 transition-transform font-bold"
             >
